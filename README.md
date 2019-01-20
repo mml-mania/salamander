@@ -2,9 +2,10 @@
 Salamander's bgmfor PiStarter MML
 
 ## Description
-*Stage2 Fly High
-*Stage6 Destroy Them All
-*Boss
+* Stage2 Fly High
+* Stage6 Destroy Them All
+* Boss
+
 ‘S‹ÈW‚È‚Ç‚ÆŠú‘Ò‚µ‚Ä‚Í‚È‚ç‚È‚¢B
 
 For PiStarter (Smilebasic).
